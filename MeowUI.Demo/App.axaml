@@ -1,7 +1,7 @@
 <Application xmlns="https://github.com/avaloniaui"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             x:Class="MeowUI.App"
-             xmlns:local="using:MeowUI"
+             x:Class="MeowUI.Demo.App"
+             xmlns:local="using:MeowUI.Demo"
              RequestedThemeVariant="Default">
              <!-- "Default" ThemeVariant follows system theme variant. "Dark" or "Light" are other available options. -->
 

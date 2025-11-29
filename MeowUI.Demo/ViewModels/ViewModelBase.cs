@@ -1,6 +1,6 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace MeowUI.ViewModels;
+namespace MeowUI.Demo.ViewModels;
 
 public class ViewModelBase : ObservableObject
 {

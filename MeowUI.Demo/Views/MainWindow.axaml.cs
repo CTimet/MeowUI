@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace MeowUI.Views;
+namespace MeowUI.Demo.Views;
 
 public partial class MainWindow : Window
 {

@@ -1,9 +1,9 @@
 using System;
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using MeowUI.ViewModels;
+using MeowUI.Demo.ViewModels;
 
-namespace MeowUI;
+namespace MeowUI.Demo;
 
 public class ViewLocator : IDataTemplate
 {

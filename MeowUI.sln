@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeowUI", "MeowUI.csproj", "{9B65E545-B0BA-49E0-BC4D-2C14470B39D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeowUI", "MeowUI\MeowUI.csproj", "{BC096328-AFFA-46DC-A4D0-A7E4CF015CFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeowUI.Demo", "MeowUI.Demo\MeowUI.Demo.csproj", "{650593FC-424A-4737-A857-DA1FB5772AC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9B65E545-B0BA-49E0-BC4D-2C14470B39D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9B65E545-B0BA-49E0-BC4D-2C14470B39D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9B65E545-B0BA-49E0-BC4D-2C14470B39D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9B65E545-B0BA-49E0-BC4D-2C14470B39D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC096328-AFFA-46DC-A4D0-A7E4CF015CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC096328-AFFA-46DC-A4D0-A7E4CF015CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC096328-AFFA-46DC-A4D0-A7E4CF015CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC096328-AFFA-46DC-A4D0-A7E4CF015CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{650593FC-424A-4737-A857-DA1FB5772AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650593FC-424A-4737-A857-DA1FB5772AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650593FC-424A-4737-A857-DA1FB5772AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650593FC-424A-4737-A857-DA1FB5772AC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

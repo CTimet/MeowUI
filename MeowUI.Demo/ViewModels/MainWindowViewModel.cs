@@ -1,4 +1,4 @@
-﻿namespace MeowUI.ViewModels;
+﻿namespace MeowUI.Demo.ViewModels;
 
 public partial class MainWindowViewModel : ViewModelBase
 {

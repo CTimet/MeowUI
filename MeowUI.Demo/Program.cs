@@ -1,7 +1,7 @@
 ﻿using Avalonia;
 using System;
 
-namespace MeowUI;
+namespace MeowUI.Demo;
 
 sealed class Program
 {

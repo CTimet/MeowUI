@@ -4,10 +4,10 @@ using Avalonia.Data.Core;
 using Avalonia.Data.Core.Plugins;
 using System.Linq;
 using Avalonia.Markup.Xaml;
-using MeowUI.ViewModels;
-using MeowUI.Views;
+using MeowUI.Demo.ViewModels;
+using MeowUI.Demo.Views;
 
-namespace MeowUI;
+namespace MeowUI.Demo;
 
 public partial class App : Application
 {
