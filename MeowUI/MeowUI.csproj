@@ -6,4 +6,25 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Avalonia" Version="11.3.8" />
+      <PackageReference Include="Avalonia.Desktop" Version="11.3.8" />
+      <PackageReference Include="Avalonia.Diagnostics" Version="11.3.8" />
+      <PackageReference Include="Avalonia.Fonts.Inter" Version="11.3.8" />
+      <PackageReference Include="Avalonia.Markup.Xaml.Loader" Version="11.3.8" />
+      <PackageReference Include="Avalonia.Skia" Version="11.3.8" />
+      <PackageReference Include="Avalonia.Themes.Fluent" Version="11.3.8" />
+      <PackageReference Include="Irihi.Ursa" Version="1.14.0" />
+      <PackageReference Include="Irihi.Ursa.Themes.Semi" Version="1.14.0" />
+      <PackageReference Include="Semi.Avalonia" Version="11.3.7.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Resources\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <AdditionalFiles Include="Themes\Windows\MeowWindow.axaml" />
+    </ItemGroup>
+
 </Project>
